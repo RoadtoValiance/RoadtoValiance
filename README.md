@@ -1,5 +1,7 @@
 ### 	Road to Valiance is a top-down, Hack N’ Slash themed 2-Dimensional Role-Playing Video Game that takes on the story of a wrongfully dishonored knight, whose honor was stripped down and was framed for kidnapping the only heir to the throne. Featuring dozens of mechanics that would create immersion towards gameplay, Road to Valiance offers several hours of enjoyment and satisfaction over the course of its gameplay.
 
+### NOTE: Please download the game using the "CODE" button and selecting the "Download ZIP" option.
+
 <!--
 **RoadtoValiance/RoadtoValiance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
